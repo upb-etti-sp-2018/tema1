@@ -1,3 +1,13 @@
+%E4. Realizaţi un program MATLAB în care să generaţi şi să reprezentaţi grafic
+%folosind funcţia stem următorii vectori:
+%a) z = [0,0,0,0,0,1,0,0,...,0], vectorul z având lungimea 21. Reprezentarea
+%grafică se va face în două “miniferestre” (funcţia subplot) vectorul z în
+%funcţie de n = 0:20 respectiv de m= –5:15.
+%b) t n = − 10 , reprezentat grafic în funcţie de n = 0:20.
+%cele două secvenţe vor fi reprezentate în:
+%- figura 1 – în acelaşi sistem de coordonate (pe acelaşi grafic);
+%- figura 2 – folosind două “miniferestre” grafice plasate una sub alta. 
+
 %a
 z=[0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
 n=0:20;
